@@ -1,4 +1,4 @@
-# 🎨 Hirst Painting — Pastel Calm
+# 🎨 Hirst Painting - Pastel Calm
 
 A generative dot painting inspired by Damien Hirst, built using Python Turtle Graphics. Each run produces a calm, pastel-toned grid of evenly spaced dots with subtle variation and a gallery-style feel.
 
@@ -28,4 +28,4 @@ This project was built as **Day 18 of the 100 Days of Python Code** course to be
 
 ## 🎞️ Preview
 
-![Hirst Painting — Pastel Calm](hirst-painting-pastel-calm.gif)
+![Hirst Painting - Pastel Calm](hirst-painting-pastel-calm.gif)
